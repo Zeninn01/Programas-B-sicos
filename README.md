@@ -12,6 +12,7 @@ Este repositório é uma coleção de programas básicos feitos em Python. Foram
 Cada programa está contido em um arquivo separado e é nomeado de acordo com sua funcionalidade. Abaixo está uma lista de alguns dos programas incluídos:
 
 - `Palíndromo.py`: Esse programa coleta a palavra lançada no terminal e verifica se ela é palíndroma (Se é igual de trás para frente)
+- `Chamada.py`: Esse programa coleta o número de alunos e os nomes deles e os coloca em uma lista. simulando uma lista de presença.
 
 ## Versão Utilizada
 
