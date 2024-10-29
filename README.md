@@ -13,6 +13,7 @@ Cada programa está contido em um arquivo separado e é nomeado de acordo com su
 
 - `Palíndromo.py`: Esse programa coleta a palavra lançada no terminal e verifica se ela é palíndroma (Se é igual de trás para frente)
 - `Chamada.py`: Esse programa coleta o número de alunos e os nomes deles e os coloca em uma lista. simulando uma lista de presença.
+- `Conta_Vogal.py`: Esse programa identifica e mostra a quantidade de vogais dentro de uma respectiva frase ao qual o usuario lançar no sistema.
 
 ## Versão Utilizada
 
